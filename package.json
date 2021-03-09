@@ -1,0 +1,26 @@
+{
+  "name": "create-portfolio-cli",
+  "version": "1.0.0",
+  "description": "This cmd tool helps to generate a NextJs based portfolio app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm create test project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhimrazy/create-portfolio-cli.git"
+  },
+  "keywords": [
+    "create-portfolio-cli",
+    "portfolio-generator",
+    "generate-portfolio-app",
+    "nextjs-app",
+    "portfolio"
+  ],
+  "author": "Bhimraj Yadav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhimrazy/create-portfolio-cli/issues"
+  },
+  "homepage": "https://github.com/bhimrazy/create-portfolio-cli#readme"
+}
